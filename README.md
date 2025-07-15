@@ -57,4 +57,4 @@ Portfolio público	GitHub Pages	Ver en GitHub
 ✨ Frase que me representa
 “No necesito ser perfecto, necesito ser constante. Todo lo demás llega con el tiempo.”
 
-<p align="center"> 💻 ¡Gracias por visitar mi perfil! Si buscás a alguien comprometido, autodidacta y creativo, hablemos. </p>
+💻 ¡Gracias por visitar mi perfil! Si buscás a alguien comprometido, autodidacta y creativo, hablemos. 
