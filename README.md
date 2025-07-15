@@ -53,3 +53,8 @@ Portfolio público	GitHub Pages	Ver en GitHub
 🔗 LinkedIn: linkedin.com/in/juanmosorio-1982
 
 🌐 Web personal: dezero.vercel.app
+
+✨ Frase que me representa
+“No necesito ser perfecto, necesito ser constante. Todo lo demás llega con el tiempo.”
+
+<p align="center"> 💻 ¡Gracias por visitar mi perfil! Si buscás a alguien comprometido, autodidacta y creativo, hablemos. </p>
