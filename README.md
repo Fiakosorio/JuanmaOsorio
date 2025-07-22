@@ -46,7 +46,7 @@ TU BOX (tienda)	WordPress, WooCommerce	tu-box-demo.netlify.app (próximamente)
 Portfolio público	GitHub Pages	Ver en GitHub
 
 📫 Contacto
-📧 Email: juanmaosorio@hotmail.com
+📧 Email: juanmosorio@hotmail.com
 
 💬 WhatsApp: +54 9 11 6372 1805
 
