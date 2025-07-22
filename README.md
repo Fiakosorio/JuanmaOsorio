@@ -46,13 +46,13 @@ TU BOX (tienda)	WordPress, WooCommerce	tu-box-demo.netlify.app (próximamente)
 Portfolio público	GitHub Pages	Ver en GitHub
 
 📫 Contacto
-📧 Email: juanmaosorio1982@gmail.com
+📧 Email: juanmaosorio@hotmail.com
 
 💬 WhatsApp: +54 9 11 6372 1805
 
 🔗 LinkedIn: linkedin.com/in/juanmosorio-1982
 
-🌐 Web personal: dezero.vercel.app
+🌐 Web personal: dezero.com.ar
 
 ✨ Frase que me representa
 “No necesito ser perfecto, necesito ser constante. Todo lo demás llega con el tiempo.”
