@@ -41,8 +41,8 @@ Actualmente estoy trabajando en:
 
 🧰 Proyectos activos
 Proyecto	Tecnologías	Enlace
-de Zero (web personal)	React, Tailwind, PHP	dezero.vercel.app (en desarrollo)
-TU BOX (tienda)	WordPress, WooCommerce	tu-box-demo.netlify.app (próximamente)
+de Zero (web personal)	React, Tailwind, PHP	dezero.com.ar (en desarrollo)
+Tu Zero Express (tienda)	WordPress, WooCommerce	tu-zero-express-demo.netlify.app (próximamente)
 Portfolio público	GitHub Pages	Ver en GitHub
 
 📫 Contacto
