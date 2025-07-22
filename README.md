@@ -16,7 +16,7 @@ Soy un desarrollador web autodidacta con pasión por el código limpio, el dise�
 
 Actualmente estoy trabajando en:
 - 🚀 **de Zero**: Mi sitio web personal (React + Tailwind + PHP)
-- 🛒 **TU BOX**: Portfolio/Tienda web digital con WordPress.org + WooCommerce
+- 🛒 **ZERO EXPRESS**: Portfolio/Tienda web digital con WordPress.org + WooCommerce
 
 🎯 Busco oportunidades remotas donde pueda aportar valor, seguir aprendiendo y trabajar con empresas o clientes de todo el mundo.
 
@@ -42,7 +42,7 @@ Actualmente estoy trabajando en:
 🧰 Proyectos activos
 Proyecto	Tecnologías	Enlace
 de Zero (web personal)	React, Tailwind, PHP	dezero.com.ar (en desarrollo)
-Tu Zero Express (tienda)	WordPress, WooCommerce	tu-zero-express-demo.netlify.app (próximamente)
+Zero Express (tienda)	WordPress, WooCommerce	zero-express-demo.netlify.app (próximamente)
 Portfolio público	GitHub Pages	Ver en GitHub
 
 📫 Contacto
